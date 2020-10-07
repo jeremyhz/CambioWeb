@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "join_button.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1062,
+				"h": 1256
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "join_button.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1060,
+						"h": 312
+					}
+				},
+				{
+					"filename": "join_button1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 315,
+						"w": 1060,
+						"h": 312
+					}
+				},
+				{
+					"filename": "join_button2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 629,
+						"w": 1060,
+						"h": 312
+					}
+				},
+				{
+					"filename": "join_button3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 943,
+						"w": 1060,
+						"h": 312
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:502d85d0e5fbc01c3e68f7161d7dcafc:e7764c7f1e4da5158e622b9f4fc75f1b:f95fec281ddca09ec277b298ec309d5d$"
+	}
+}

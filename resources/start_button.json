@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "start_button.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1062,
+				"h": 1256
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "start_button.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1060,
+						"h": 312
+					}
+				},
+				{
+					"filename": "start_button1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 315,
+						"w": 1060,
+						"h": 312
+					}
+				},
+				{
+					"filename": "start_button2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 629,
+						"w": 1060,
+						"h": 312
+					}
+				},
+				{
+					"filename": "start_button3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 943,
+						"w": 1060,
+						"h": 312
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b09dc91ef19b22ac21fbe52ade6379f3:0c3b7e65a36a742007e937305c43115c:4ef988c16c64a642d97def1aad3b82cd$"
+	}
+}
